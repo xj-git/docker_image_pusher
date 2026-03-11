@@ -17,4 +17,12 @@
 #ghcr.io/jkroepke/kube-webhook-certgen:1.7.8
 #quay.io/prometheus-operator/admission-webhook:v0.89.0
 #quay.io/prometheus/alertmanager:v0.31.1
+docker.io/grafana/grafana:12.4.1
+
+registry.k8s.io/kube-state-metrics/kube-state-metrics:2.18.0
+
+
+quay.io/prometheus/node-exporter:1.10.2
+
+ghcr.io/prometheus-community/windows-exporter:0.31.3
 
