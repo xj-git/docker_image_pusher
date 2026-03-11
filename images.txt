@@ -18,12 +18,12 @@
 
 #quay.io/thanos/thanos:v0.41.0
 
-quay.io/prometheus-operator/prometheus-config-reloader:v0.89.0
+#quay.io/prometheus-operator/prometheus-config-reloader:v0.89.0
 
-quay.io/prometheus-operator/prometheus-operator
+quay.io/prometheus-operator/prometheus-operator:v0.89.0
 
 ghcr.io/jkroepke/kube-webhook-certgen:1.7.8
 
-quay.io/prometheus-operator/admission-webhook
+quay.io/prometheus-operator/admission-webhook:v0.89.0
 
 quay.io/prometheus/alertmanager:v0.31.1
