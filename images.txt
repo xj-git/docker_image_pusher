@@ -7,9 +7,9 @@
 
 
 
+docker.elastic.co/elasticsearch/elasticsearch:8.12.0
+docker.elastic.co/kibana/kibana:8.12.0
+docker.elastic.co/beats/filebeat:8.12.0
 
 
-prom/node-exporter:v1.10.2
-
-ghcr.io/prometheus-community/windows-exporter:0.31.3
 
