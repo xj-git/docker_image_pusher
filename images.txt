@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-docker pull bitnami/elasticsearch-exporter:1.7.0-debian-11-r5
+bitnami/elasticsearch-exporter:1.7.0-debian-11-r5
