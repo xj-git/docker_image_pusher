@@ -9,7 +9,8 @@
 #docker.elastic.co/logstash/logstash:8.12.0
 
 #docker.io/bitnami/elasticsearch-exporter:latest
-docker pull prometheuscommunity/elasticsearch-exporter:1.7.0
+docker pull docker.io/bitnami/elasticsearch-exporter:1.7.0-debian-11-r5
+
 #docker.io/bitnami/os-shell:11
 
 
