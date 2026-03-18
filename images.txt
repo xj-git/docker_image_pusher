@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-prom/elasticsearch-exporter:v1.7.0
+prom/elasticsearch-exporter:latest
