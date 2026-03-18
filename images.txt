@@ -8,7 +8,7 @@
 
 #docker.elastic.co/logstash/logstash:8.12.0
 
-docker.io/bitnami/elasticsearch-exporter:1.7.0
+docker.io/bitnami/elasticsearch-exporter:latest
 
 docker.io/bitnami/os-shell:11
 
