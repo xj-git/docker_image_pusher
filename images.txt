@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-prom/elasticsearch-exporter:latest
+docker.elastic.co/eck/eck-operator:3.3.0
